@@ -30,3 +30,5 @@ eg: git push origin main yesley hamro local ko folder lai server ma push handinx
 git pull:
 git pull command ley chai github ma vayeko code lai hamro local ma tehi github ko details vayeko folder ma laidinxa.
 
+eg: git pull remote_name branch_name,
+
