@@ -1,0 +1,16 @@
+1. git clone => github ma vayeko (already rakheko) tapai ko ya aru manchey ko project    command line bata download garna yo use hunxa
+
+    eg: git clone https://github.com/githubkoprijectkoname.git
+
+2. git init: git hamro folder ma git initilize gardinxa jasko karad ley hamiley git ka command haru chalauna milxa. yo garesi hamro main folder ma .git vanni folder aauxa jun chai hidden hunxa,
+
+3. git status: git status ley hamro kunai yeuta folder ma ke change garyo k delete garyo jasto tracks rakhxa rw tyo safe xa ki xaina vanni hamlai batauxa
+
+
+git status garda normally 3 tarika ka file haru bughna sakinxa:\
+        -untracked jasko color red hunxa yedi yo dekhio vaney git add . command hannu hola,
+            git add . : hamra jati pani vayeka untracked file lai tracked file ma convert gardinxa
+            yaniki rato file haru lai hario file ma convert handinxa
+
+        -unstaged file: jasko color chai hariho hunxa yo dekhi vaney chai tpailey git commit -m "detaisl" lekhera commit garera rakhnuparxa. git commit -m "k gario vanni details lekhni"
+
