@@ -21,3 +21,6 @@ branch swith garna: git checkout branch_name,
 
 github ko active branch ko name change garna ko lagi git branch -M new_branch_name,
 
+git remote add remote_name github_url
+remote ko kam chai hamro folder yaniki hamro local file ma vayeko folder rw server yaniki github ko repository lai link garaidinxu jasko sayeta ley mailey github rw mero folder bich code exchange hanna sakxu,  
+
